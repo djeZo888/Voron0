@@ -11,10 +11,13 @@ Damages to the belt caused by the problem are visible in the following pictures.
 # Fix
 The total height of Voron0 pulley stack, which consists of a shim, two bearings and another shim, is **9mm**. You have to keep this when doing any kind of modifications.
 
-- Shim 0.5mm
-- Bearing 4.0mm
-- Bearing 4.0mm
-- Shim 0.5mm
+Pulley stack | Height
+---|---
+Shim | 0.5mm
+Bearing | 4.0mm
+Bearing | 4.0mm
+Shim | 0.5mm
+Total | **9.0mm**
 
 Another important thing is belt line. **Belt has to be fully horizontal during entire path.**
 
@@ -27,11 +30,15 @@ Generally, the more space we can acquire for belt, the better. But there are lim
 There are several solutions possible.
 
 ## Solution #1 (belt space: 6.4mm)
-- Shim 0.3mm
-- Bearing 4.0mm
-- Shim 0.4mm
-- Bearing 4.0mm
-- Shim 0.3mm
+
+Pulley stack | Height
+---|---
+Shim | 0.3mm
+Bearing | 4.0mm
+Shim | 0.4mm
+Bearing | 4.0mm
+Shim | 0.3mm
+Total | **9.0mm**
 
 ### Results
 Belt | In theory | In practice
@@ -41,12 +48,15 @@ Creality 5.7-5.9mm | There is 0.5-0.7mm of tolerance available, which is good. |
 
 ## Solution #2 (belt space: 6.8mm)
 _Note: this solution is not recommended for printed parts, as bearings may rub against plastic parts._
-- Shim 0.1mm
-- Bearing 4.0mm
-- Shim 0.4mm
-- Shim 0.4mm
-- Bearing 4.0mm
-- Shim 0.1mm
+Pulley stack | Height
+---|---
+Shim | 0.1mm
+Bearing | 4.0mm
+Shim | 0.4mm
+Shim | 0.4mm
+Bearing | 4.0mm
+Shim | 0.1mm
+Total | **9.0mm**
 
 ### Results
 Belt | In theory | In practice
