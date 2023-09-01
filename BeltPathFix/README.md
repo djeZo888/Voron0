@@ -16,6 +16,8 @@ To fix the problem, shims between bearings are used. You will need a pack of ult
 
 ![Ultrathin shims from AliExpress](/BeltPathFix/images/box_shims.jpeg)
 
+Generally, the more space we can acquire for belt, the better. But there are limits. First is the total stack height which is 9mm. To keep the belt line, it is advised to do symetrical modifications. And lastly, stack has to start and end with a shim, so that bearings do not rub against plastic or metal parts of the printer.
+
 There are several solutions possible.
 
 ## Solution #1 (belt space: 6.4mm)
@@ -24,3 +26,24 @@ There are several solutions possible.
 - Shim 0.4mm
 - Bearing 4.0mm
 - Shim 0.3mm
+
+### Results
+Belt | In theory | In practice
+---|---|---
+Gates 6.0-6.2mm | 6.4mm should be enough, but I'd recommend larger space if possible. | Tested, works OK with CNC parts.
+Creality 5.7-5.9mm | There is 0.5-0.7mm of tolerance available, which is good. | Not tested.
+
+## Solution #2 (belt space: 6.8mm)
+_Note: this solution is not recommended for printed parts, as bearings may rub against plastic parts._
+- Shim 0.1mm
+- Bearing 4.0mm
+- Shim 0.4mm
+- Shim 0.4mm
+- Bearing 4.0mm
+- Shim 0.1mm
+
+### Results
+Belt | In theory | In practice
+---|---|---
+Gates 6.0-6.2mm | Best solution for Gates. | Not tested.
+Creality 5.7-5.9mm | Should definitely work! | Not tested.
