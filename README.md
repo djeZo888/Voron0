@@ -1,2 +1,2 @@
 # Voron0
-Collection of my Voron0 mods
+This is collection of my Voron0 mods that improve performance of the printer.
