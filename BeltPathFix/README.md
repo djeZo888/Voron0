@@ -4,6 +4,8 @@ Voron0 has dimensional/tolerance issue with belts riding on bearings. Belt shoul
 # Fix
 To fix the problem, shims between bearings are used. You will need a pack of ultrathin shims, which you can [purchase from AliExpress](https://www.aliexpress.com/item/1005005204413043.html).
 
+![Ultrathin shims from AliExpress](/images/box_shims.jpeg)
+
 The total height of Voron0 pulley stack, which consists of a shim, two bearings and another shim, is **9mm**. You have to keep this when doing any kind of modifications.
 Another important thing is belt line. **Belt has to be fully horizontal during entire path.**
 
