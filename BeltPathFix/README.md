@@ -1,4 +1,5 @@
-# Introduction
+_Note: This page is still being worked on!_
+# Problem
 Voron0 has dimensional/tolerance issue with belts riding on bearings. Belt should not be more than 6mm wide as there is maximum of 6mm (3mm per each bearing) space available for the belt. But most belts and especially Gates are usually a bit more than 6mm wide (6.0 - 6.2mm). This causes increased belt wear, strange noises and small fluctuations in belt tension when toolhead moves. According to my experiments, it also affects input shaper results.
 
 # Fix
