@@ -11,6 +11,8 @@ Damages to the belt caused by the problem are visible in the following pictures.
 # Fix
 The total height of Voron0 pulley stack, which consists of a shim, two bearings and another shim, is **9mm**. You have to keep this when doing any kind of modifications.
 
+![Defaul pulley stack](/BeltPathFix/images/stack.png)
+
 Pulley stack | Height
 ---|---
 Shim | 0.5mm
