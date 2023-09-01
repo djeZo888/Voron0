@@ -2,6 +2,12 @@ _Note: This page is still being worked on!_
 # Problem
 Voron0 has dimensional/tolerance issue with belts riding on bearings. Belt should not be more than 6mm wide as there is maximum of 6mm (3mm per each bearing) space available for the belt. But most belts and especially Gates are usually a bit more than 6mm wide (6.0 - 6.2mm). This causes increased belt wear, strange noises and small fluctuations in belt tension when toolhead moves. According to my experiments, it also affects input shaper results.
 
+[Listen to the belts making sound](/BeltPathFix/belt_rubbing_sound.m4a) when toolhead is being slowly moved by hand.
+
+Damages to the belt caused by the problem are visible in the following pictures.
+![Belt issue 1](/BeltPathFix/images/belt_damage_1.jpeg)
+![Belt issue 2](/BeltPathFix/images/belt_damage_2.jpeg)
+
 # Fix
 The total height of Voron0 pulley stack, which consists of a shim, two bearings and another shim, is **9mm**. You have to keep this when doing any kind of modifications.
 
