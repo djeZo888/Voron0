@@ -1,3 +1,5 @@
+![Better print start](/PrintStart/printstart.mov)
+
 # Print start GCODE
 
 I like Prusa MK4 print start, which extrudes a lot of filament in short time thus really getting rid of the strings and gunk thats on the nozzle from previous print. So I have accomodated it to be used for Voron0.
