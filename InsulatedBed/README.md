@@ -7,7 +7,7 @@ Things you will need:
 - Kapton tape; any size, you can cut it to dimensions needed [AliExpress](https://www.aliexpress.com/item/1005005565776871.html)đ
 
 ## How to assemble
-Cut the foam rougly 120x120 in size and stick it under the bed. Make sure that 3 mounting holes are rougly 5cm in diameter free of foam. Then cut small long rectangular pieces which you use to cover sides of the bed (ALU that is bare). After you have whole bed (apart from top of course) covered in foam, wrap everything in Kapton tape. Again, make sure you do not cover top side of the bed.
+Cut the foam rougly 120x120 in size and stick it under the bed. Make sure that 3 mounting holes are rougly 5mm in diameter free of foam. Then cut small long rectangular pieces which you use to cover sides of the bed (ALU that is bare). After you have whole bed (apart from top of course) covered in foam, wrap everything in Kapton tape. Again, make sure you do not cover top side of the bed.
 
 ![Insulated bed](/InsulatedBed/insulated_bed.jpeg)
 
