@@ -3,6 +3,7 @@ This is collection of my Voron0 mods that improve performance of the printer.
 
 - [Belt Path Fix](/BeltPathFix)
 - [Improved print start](/PrintStart)
+- [Insulated bed](/InsulatedBed)
 
 # Printing functional parts
 If you are like me, without ability to print toxic filaments due to living space constraints, you may be in constant search for a filament that can replace ABS/ASA, which is always suggested as **the only** option to print Voron parts. But let me tell you, there are other filaments that will satisfy requirements imposed by Voron designers. I mainly use two filaments that are health-risk free, can be printed in your bedroom and will not give you a cancer.
