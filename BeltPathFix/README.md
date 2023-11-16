@@ -45,7 +45,7 @@ Total | **9.0mm**
 ### Results
 Belt | In theory | In practice
 ---|---|---
-Gates 6.0-6.2mm | 6.4mm should be enough, but I'd recommend larger space if possible. | Tested, works OK with CNC parts.
+Gates 6.0-6.2mm | 6.4mm should be enough, but I'd recommend larger space if possible. | Tested, works OK with printed and ALU/CNC parts.
 Creality 5.7-5.9mm | There is 0.5-0.7mm of tolerance available, which is good. | Not tested.
 
 ## Solution #2 (belt space: 6.8mm)
